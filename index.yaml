@@ -3,7 +3,7 @@ entries:
   cdn-local:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-02-04T06:23:24.612110144Z"
+    created: "2021-02-04T06:44:07.722893566Z"
     description: A Helm chart for M-CORD CDN Services in Local Edge
     digest: 1b6653cfc6dede821da613a4d04199ebf122261bd23512d5f0b66faf6af7d7d9
     name: cdn-local
@@ -12,11 +12,11 @@ entries:
     version: 0.2.3
   helloworld:
   - apiVersion: v1
-    created: "2021-02-04T06:23:24.612454959Z"
+    created: "2021-02-04T06:44:07.723221938Z"
     description: helloworld chart that runs on kubernetes
-    digest: 75fb5b6698854b1e4995b55ea4a85ee976a5c7c1d380b123a4087c826cb55690
+    digest: 4cb2401e325bd4df023df157a014ce4a5d45db7f4420f89bd4708303cc811d99
     name: helloworld
     urls:
-    - https://amanthakral02.github.io/my-helm-repo/helloworld-1.0.0.tgz
-    version: 1.0.0
-generated: "2021-02-04T06:23:24.610741263Z"
+    - https://amanthakral02.github.io/my-helm-repo/helloworld-1.0.1.tgz
+    version: 1.0.1
+generated: "2021-02-04T06:44:07.721686884Z"
